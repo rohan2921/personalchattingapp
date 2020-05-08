@@ -48,7 +48,7 @@ class _AuthScreenState extends State<AuthScreen> {
     setState(() {
       _isLoading = false;
     });
-    Navigator.of(context).pop();
+   // Navigator.of(context).pop();
   }
 
   @override
