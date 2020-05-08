@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32628479311",
+    "firebase_url": "https://personalchattingapp-98db8.firebaseio.com",
+    "project_id": "personalchattingapp-98db8",
+    "storage_bucket": "personalchattingapp-98db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32628479311:android:66a5a60228b7b28345213a",
+        "android_client_info": {
+          "package_name": "com.example.personalchattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32628479311-8bfdl8jueodac5c9eh7n47v0ad4d9n78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbVIsKl-m7slc0gVXiH8OzX80ypZvZFPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32628479311-8bfdl8jueodac5c9eh7n47v0ad4d9n78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
