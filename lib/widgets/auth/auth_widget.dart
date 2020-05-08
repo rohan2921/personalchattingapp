@@ -50,6 +50,9 @@ class _AuthWidgetState extends State<AuthWidget> {
               children: <Widget>[
                if(!_isLogin)UserImagePicker(setImage),
                 TextFormField(
+                  autocorrect: false,
+                  enableSuggestions: false,
+                  textCapitalization: TextCapitalization.none,
                   key: ValueKey('email'),
                   onSaved: (val){
                       _userEmail=val;
